@@ -1,0 +1,2 @@
+# restfull-api-with-laravel-node-end-mysql
+Aplicativo capaz de realizar todas as operações (verbos ) HTTP. Através da UI podemos cadastrar, editar, atualizar e excluir seus dados. Ao realizar alguma operação, é desparado um evento request para a porta do servidor Node que será responsável por interagir com nossa camada de back end. Aqui, temos o framework PHP Laravel que fara todas as operação e interações com o banco de dados Mysql
