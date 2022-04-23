@@ -1,2 +1,9 @@
-# restfull-api-with-laravel-node-end-mysql
-Aplicativo capaz de realizar todas as operações (verbos ) HTTP. Através da UI podemos cadastrar, editar, atualizar e excluir seus dados. Ao realizar alguma operação, é desparado um evento request para a porta do servidor Node que será responsável por interagir com nossa camada de back end. Aqui, temos o framework PHP Laravel que fara todas as operação e interações com o banco de dados Mysql
+# API Laravel/MYSQL an NodeJS 
+
+![laravel-and-nodejs-api](https://terminalroot.com.br/assets/img/laravel/laravel-vs-nodejs.jpe)
+
+## Functional structure of a Micro Service and API. This code structure uses the technologies: PHP Framework Laravel, NodeJS and to persist the application data, the MYSQL database was introduced
+
+###-----------------------------------------------------------------------------------------------
+
+## Estrutura funcional de um Micro Serviço and API. Esta estrutura de código são utilizado as tecnologias: Framework PHP Laravel, NodeJS e para persistir os dados da aplicação foi introduzido o banco de dados MYSQL
